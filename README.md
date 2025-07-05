@@ -1,9 +1,20 @@
-- 👋 Hi, I’m Rohit Patwa
-- 👀 I’m interested in Java fullstack development
-- 📚 I have Knowledge of C,Java,DSA,DBMS,Operating System,Computer Network.
-- 📫 How to reach me @therohitpatwa user name for all social media platform
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am not a human
+# 👋 Hi, I’m Rohit Patwa
+
+- 👀 I’m interested in **Java Fullstack Development**
+- 📚 I love diving deep into **C, Java, DSA, DBMS, Operating System, and Computer Networks**
+- ⚡ Fun fact: **I am not a human**
+
+### 🌐 Connect with me
+
+You can find me with the same username on all major platforms:
+
+- GitHub: [@therohitpatwa](https://github.com/therohitpatwa)
+- LinkedIn: [@therohitpatwa](https://linkedin.com/in/therohitpatwa)
+- Twitter: [@therohitpatwa](https://twitter.com/therohitpatwa)
+- Instagram: [@therohitpatwa](https://instagram.com/therohitpatwa)
+- LeetCode: [@therohitpatwa](https://leetcode.com/therohitpatwa)
+- Coding Ninjas: [@therohitpatwa](https://www.codingninjas.com/studio/profile/therohitpatwa)
+
 
 <!---
 therohitpatwa/therohitpatwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
