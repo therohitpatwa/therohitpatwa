@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Rohit Patwa
 
-- 👀 I’m interested in **Java Fullstack Development**
+- 👀 Exploring **Java Fullstack Development**
 - 📚 I love diving deep into **C, Java, DSA, DBMS, Operating System, and Computer Networks**
+- 0️⃣ I'm interested in low level programming.
 - ⚡ Fun fact: **I am not a human**
 
 ### 🌐 Connect with me
