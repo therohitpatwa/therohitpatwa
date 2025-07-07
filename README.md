@@ -2,7 +2,7 @@
 
 - 👀 Exploring **Java Fullstack Development**
 - 📚 I love diving deep into **C, Java, DSA, DBMS, Operating System, and Computer Networks**
-- 0️⃣ I'm interested in low level programming.
+- 0️⃣ I'm interested in low level stuff.
 - ⚡ Fun fact: **I am not a human**
 
 ### 🌐 Connect with me
