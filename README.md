@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rohit Patwa
+# 👋 Hi, I’m Rohit Patwa an idiot engineer who builds cool stuff.
 
 - 👀 Exploring **Java Fullstack Development**
 - 📚 I love diving deep into **C, Java, DSA, and CS Fundamental (DBMS, Operating System, and Computer Networks) .**
