@@ -5,6 +5,13 @@
 - 0️⃣ I'm interested in low level stuff.
 - ⚡ Fun fact: **I am not a human**
 
+<h3 align="left">Hey there!</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/adityapandey23/adityapandey23/output/snake.svg" alt="Snake animation" />
+
+
 ### 🌐 Connect with me
 
 You can find me with the same username on all major platforms:
