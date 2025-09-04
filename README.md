@@ -18,7 +18,7 @@ You can find me with the same username on all major platforms:
 - Coding Ninjas: [@therohitpatwa](https://www.codingninjas.com/studio/profile/therohitpatwa)
 - GitHub: [@therohitpatwa](https://github.com/therohitpatwa)
   
-<img src="https://raw.githubusercontent.com/therohitpatwa/therohipatwa/main/Snake.svg" alt="Snake animation" />
+<img src="https://github.com/therohitpatwa/therohitpatwa/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 
 <!---
