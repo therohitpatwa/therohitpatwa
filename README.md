@@ -8,7 +8,7 @@
  
 ### 🌐 Connect with me
 
-You can find me with the same username on all major platforms:
+You can find me with the same username on all major platforms: 
 
 - Email: therohitpatwa@gmail.com
 - LinkedIn: [@therohitpatwa](https://linkedin.com/in/therohitpatwa)
