@@ -5,6 +5,17 @@
 - ⚡ Fun fact: **I am not a human**
 
   
+
+  
+<img src="https://github.com/therohitpatwa/therohitpatwa/blob/output/github-snake-dark.svg" alt="Snake animation" />
+
+
+<!---
+therohitpatwa/therohitpatwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
 ### 🌐 Connect with me
 
 You can find me with the same username on all major platforms: 
@@ -16,11 +27,3 @@ You can find me with the same username on all major platforms:
 - LeetCode: [@therohitpatwa](https://leetcode.com/therohitpatwa)
 - Coding Ninjas: [@therohitpatwa](https://www.codingninjas.com/studio/profile/therohitpatwa)
 - GitHub: [@therohitpatwa](https://github.com/therohitpatwa)
-  
-<img src="https://github.com/therohitpatwa/therohitpatwa/blob/output/github-snake-dark.svg" alt="Snake animation" />
-
-
-<!---
-therohitpatwa/therohitpatwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
