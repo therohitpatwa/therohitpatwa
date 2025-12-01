@@ -24,6 +24,3 @@ You can find me with the same username on all major platforms:
 - LinkedIn: [@therohitpatwa](https://linkedin.com/in/therohitpatwa)
 - Twitter: [@therohitpatwa](https://twitter.com/therohitpatwa)
 - Instagram: [@therohitpatwa](https://instagram.com/therohitpatwa)
-- LeetCode: [@therohitpatwa](https://leetcode.com/therohitpatwa)
-- Coding Ninjas: [@therohitpatwa](https://www.codingninjas.com/studio/profile/therohitpatwa)
-- GitHub: [@therohitpatwa](https://github.com/therohitpatwa)
