@@ -12,15 +12,3 @@
 
 
 
-
-
-
-
-### 🌐 Connect with me
-
-You can find me with the same username on all major platforms: 
-
-- Email: therohitpatwa@gmail.com
-- LinkedIn: [@therohitpatwa](https://linkedin.com/in/therohitpatwa)
-- Twitter: [@therohitpatwa](https://twitter.com/therohitpatwa)
-- Instagram: [@therohitpatwa](https://instagram.com/therohitpatwa)
