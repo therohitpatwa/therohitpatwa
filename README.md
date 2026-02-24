@@ -7,9 +7,9 @@
 
   
 All Projects -
-- [@PixelNova](https://github.com/therohitpatwa/therohitpatwa/pixelnova) 
-- [@webserver](https://github.com/therohitpatwa/therohitpatwa/webserver) 
-- [@numsy](https://github.com/therohitpatwa/therohitpatwa/numsy) 
+- [@PixelNova](https://github.com/therohitpatwa/therohitpatwa/PixelNova-AsyncImageProcessor) 
+- [@webserver](https://github.com/therohitpatwa/therohitpatwa/WebServer) 
+- [@numsy](https://github.com/therohitpatwa/therohitpatwa/Numsy) 
 
   
 <img src="https://github.com/therohitpatwa/therohitpatwa/blob/output/github-snake-dark.svg" alt="Snake animation" />
