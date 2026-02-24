@@ -6,6 +6,10 @@
 - ⚡ Fun fact: **I am not a human**
 
   
+All Projects -
+- [@PixelNova](https://github.com/therohitpatwa/therohitpatwa/pixelnova) 
+- [@webserver](https://github.com/therohitpatwa/therohitpatwa/webserver) 
+- [@numsy](https://github.com/therohitpatwa/therohitpatwa/numsy) 
 
   
 <img src="https://github.com/therohitpatwa/therohitpatwa/blob/output/github-snake-dark.svg" alt="Snake animation" />
