@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rohit Patwa an engineer who builds cool stuff.
 
-- 👀 Full-Stack developer skilled in building scalable web applications using [**Spring Framework**](), [**React**]() and modern UI frameworks. Experienced in developing [**RESTful APIs**](), managing databases with [**MySQL**](), and deploying production ready apps.
+- 👀 Full-Stack developer skilled in building scalable web applications using [**Spring Framework**](https://spring.io/), [**React**](https://react.dev/) and modern UI frameworks. Experienced in developing [**RESTful APIs**](https://restfulapi.net/), managing databases with [**MySQL**](https://dev.mysql.com/doc/), and deploying production ready apps.
 - 📽️ Portfolio - https://therohitpatwa.me
 - ⚡ Fun fact: **I am not a human**
 
