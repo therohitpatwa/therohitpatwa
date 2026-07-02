@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rohit Patwa an engineer who builds usefull stuff.
 
--  Full-Stack developer skilled in building scalable web applications using  [**Java**](https://docs.oracle.com/javase/tutorial/), the [**Spring Framework**](https://spring.io/), [**React**](https://react.dev/) and modern UI frameworks. Experienced in developing [**RESTful APIs**](https://restfulapi.net/), managing databases with [**MySQL**](https://dev.mysql.com/doc/), deploying production ready apps improving their visibility through [**SEO**](https://developers.google.com/search/docs/fundamentals/seo-starter-guide).
+-  Full-Stack developer skilled in building scalable web applications using  [**Java**](https://docs.oracle.com/javase/tutorial/), the [**Spring Framework**](https://spring.io/), [**React**](https://react.dev/) and modern UI frameworks. Experienced in developing [**RESTful APIs**](https://restfulapi.net/), managing databases with [**MySQL**](https://dev.mysql.com/doc/), deploying production ready apps improving their visibility through [**SEO**](https://developers.google.com/search/docs/fundamentals/seo-starter-guide) and sharing my knowledge through **Teaching** and **Blogs**.
   
 -  Portfolio - https://therohitpatwa.me
 
