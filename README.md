@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rohit Patwa an engineer who builds usefull stuff.
 
--  Yup! I'm an Engineer who loves to build **stuff**, get it seen using **SEO**, and share my knowledge through **teaching** and my **blog**.
+-  Yup! I'm an Engineer who loves to build **Usefull Stuff**, get it seen using **SEO**, and share my knowledge through **teaching** and my **blog**.
   
 -  Portfolio - https://therohitpatwa.me
 
